@@ -15,5 +15,9 @@
             "id": "repl_python",
             "file": "config/Python/Main.sublime-menu"
         }
-    },        
+    },
+    {
+        "keys":["alt+b"],
+        "command": "open_in_browser",
+    },     
 ]
